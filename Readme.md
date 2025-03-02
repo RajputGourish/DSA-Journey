@@ -9,6 +9,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┣ 📂 BinarySearchTree
  ┃ ┣ 📜 Ceil_In_BST.cpp  
  ┃ ┣ 📜 Floor_In_BST.cpp  
+ ┃ ┣ 📜 InsertNode_In_BST.cpp  
  ┃ ┣ 📜 Minimum_In_BST.cpp  
  ┃ ┣ 📜 Search_In_BST.cpp  
  ┗ 📜 README.md (Minimal repo overview)  
