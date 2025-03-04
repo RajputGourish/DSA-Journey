@@ -11,6 +11,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 DeleteNode_In_BST.cpp  
  ┃ ┣ 📜 Floor_In_BST.cpp  
  ┃ ┣ 📜 InsertNode_In_BST.cpp  
+ ┃ ┣ 📜 Kth_Smalllest_element.cpp  
  ┃ ┣ 📜 Minimum_In_BST.cpp  
  ┃ ┣ 📜 Search_In_BST.cpp  
  ┗ 📜 README.md (Minimal repo overview)  
