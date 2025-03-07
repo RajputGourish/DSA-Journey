@@ -15,6 +15,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 Kth_Smalllest_element.cpp  
  ┃ ┣ 📜 LCA_In_BST.cpp  
  ┃ ┣ 📜 Minimum_In_BST.cpp  
+ ┃ ┣ 📜 PreOrder_To_BST.cpp  
  ┃ ┣ 📜 Search_In_BST.cpp  
  ┗ 📜 README.md (Minimal repo overview)  
 ```
