@@ -11,6 +11,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 Ceil_In_BST.cpp  
  ┃ ┣ 📜 DeleteNode_In_BST.cpp  
  ┃ ┣ 📜 Floor_In_BST.cpp  
+ ┃ ┣ 📜 Inorder_Successor.cpp  
  ┃ ┣ 📜 InsertNode_In_BST.cpp  
  ┃ ┣ 📜 Kth_Smalllest_element.cpp  
  ┃ ┣ 📜 LCA_In_BST.cpp  
