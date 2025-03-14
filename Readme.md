@@ -20,9 +20,12 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 Largest_BST_In_BT.cpp  
  ┃ ┣ 📜 LCA_In_BST.cpp  
  ┃ ┣ 📜 Minimum_In_BST.cpp  
+ ┃ ┣ 📜 Prac_DelNode_In_BST.cpp  
  ┃ ┣ 📜 PreOrder_To_BST.cpp  
  ┃ ┣ 📜 Search_In_BST.cpp  
- ┃ ┣ 📜 Swaped_MIstake.cpp  
+ ┃ ┣ 📜 Swaped_MIstake.cpp
+ ┣ 📂 Practice  
+ ┃ ┣ 📜 Prac_DelNode_In_BST.cpp
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -32,6 +35,7 @@ This repository documents my daily progress in solving Data Structures and Algor
 
 ## Progress 📈  
 ✅ `BinarSearchTree`  
+✅ `Practice`  
 🔄 More coming soon...  
 
 ---
