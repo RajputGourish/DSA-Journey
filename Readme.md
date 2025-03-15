@@ -26,6 +26,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 Swaped_MIstake.cpp
  ┣ 📂 Practice  
  ┃ ┣ 📜 Prac_DelNode_In_BST.cpp
+ ┃ ┣ 📜 BST_Or_BT.cpp
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
