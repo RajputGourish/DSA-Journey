@@ -6,6 +6,12 @@ This repository documents my daily progress in solving Data Structures and Algor
 
 ```
 📦 dsa-journey  
+ ┣ 📂 Array
+ ┃ ┣ 📜 Check_if_arr_sorted.cpp 
+ ┃ ┣ 📜 Find_the_Union.cpp 
+ ┃ ┣ 📜 Largest_element_Array.cpp 
+ ┃ ┣ 📜 Linear_Search.cpp 
+ ┃ ┣ 📜 Second_largest_elArr.cpp 
  ┣ 📂 BinarySearchTree
  ┃ ┣ 📜 2_SUM_IV_InBST.cpp 
  ┃ ┣ 📜 BST_Or_BT.cpp 
