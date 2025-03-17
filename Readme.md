@@ -30,9 +30,14 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 PreOrder_To_BST.cpp  
  ┃ ┣ 📜 Search_In_BST.cpp  
  ┃ ┣ 📜 Swaped_MIstake.cpp
+ ┣ 📂 Leetcode DCC  
+ ┃ ┣ 📜 17-03-25.cpp
  ┣ 📂 Practice  
  ┃ ┣ 📜 Prac_DelNode_In_BST.cpp
  ┃ ┣ 📜 BST_Or_BT.cpp
+ ┣ 📂 Sorting  
+ ┃ ┣ 📂 Sort1
+ ┃ ┃ ┣ 📜 Selection_Sort.cpp
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -42,7 +47,9 @@ This repository documents my daily progress in solving Data Structures and Algor
 
 ## Progress 📈  
 ✅ `BinarSearchTree`  
+✅ `Leetcode DCC`  
 ✅ `Practice`  
+✅ `Sorting`  
 🔄 More coming soon...  
 
 ---
