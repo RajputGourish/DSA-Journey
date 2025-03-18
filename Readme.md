@@ -37,8 +37,8 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 BST_Or_BT.cpp
  ┣ 📂 Sorting  
  ┃ ┣ 📂 Sort1
- ┃ ┃ ┣ 📜 Selection_Sort.cpp
  ┃ ┃ ┣ 📜 Bubble_Sort.cpp
+ ┃ ┃ ┣ 📜 Selection_Sort.cpp
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
