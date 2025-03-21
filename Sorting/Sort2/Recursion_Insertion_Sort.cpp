@@ -26,6 +26,9 @@ void recursion_Insert(vector<int> &arr, int index, int n)
     }
     // recursion call
     recursion_Insert(arr, index + 1, n);
+    
+    // Time Complexity = O(N^2)
+    // Auxillary Space Complexity = O(N)
 }
 
 int main()
