@@ -43,6 +43,8 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┃ ┣ 📜 Selection_Sort.cpp
  ┃ ┣ 📂 Sort2
  ┃ ┃ ┣ 📜 Merge_Sort.cpp
+ ┃ ┃ ┣ 📜 Recursion_Bubble_sort.cpp
+ ┃ ┃ ┣ 📜 Recursion_Insertion_Sort.cpp
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
