@@ -12,6 +12,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 Largest_element_Array.cpp 
  ┃ ┣ 📜 Linear_Search.cpp 
  ┃ ┣ 📜 Second_largest_elArr.cpp 
+ ┃ ┣ 📜 Single_Number.cpp 
  ┣ 📂 BinarySearchTree
  ┃ ┣ 📜 2_SUM_IV_InBST.cpp 
  ┃ ┣ 📜 BST_Or_BT.cpp 
