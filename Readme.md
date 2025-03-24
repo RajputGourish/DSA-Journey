@@ -11,6 +11,8 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 Find_the_Union.cpp 
  ┃ ┣ 📜 Largest_element_Array.cpp 
  ┃ ┣ 📜 Linear_Search.cpp 
+ ┃ ┣ 📜 Missing_Number.cpp 
+ ┃ ┣ 📜 No_Of_Consecutive1s.cpp 
  ┃ ┣ 📜 Second_largest_elArr.cpp 
  ┃ ┣ 📜 Single_Number.cpp 
  ┣ 📂 BinarySearchTree
