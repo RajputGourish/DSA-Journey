@@ -13,6 +13,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 LargestSubarraywithSumK.cpp 
  ┃ ┣ 📜 Linear_Search.cpp 
  ┃ ┣ 📜 Missing_Number.cpp 
+ ┃ ┣ 📜 Move_Zero_End.cpp 
  ┃ ┣ 📜 No_Of_Consecutive1s.cpp 
  ┃ ┣ 📜 Second_largest_elArr.cpp 
  ┃ ┣ 📜 Single_Number.cpp 
