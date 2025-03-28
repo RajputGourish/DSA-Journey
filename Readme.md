@@ -16,6 +16,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 Move_Zero_End.cpp 
  ┃ ┣ 📜 No_Of_Consecutive1s.cpp 
  ┃ ┣ 📜 RotateArr_by_One.cpp 
+ ┃ ┣ 📜 RotateArr_K_Place.cpp 
  ┃ ┣ 📜 Second_largest_elArr.cpp 
  ┃ ┣ 📜 Single_Number.cpp 
  ┣ 📂 BinarySearchTree
