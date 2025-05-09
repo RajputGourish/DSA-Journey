@@ -19,6 +19,8 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 RotateArr_K_Place.cpp 
  ┃ ┣ 📜 Second_largest_elArr.cpp 
  ┃ ┣ 📜 Single_Number.cpp 
+ ┃ ┣ 📜 SortArr_0_1_2s.cpp 
+ ┃ ┣ 📜 TWO_SUM.cpp 
  ┣ 📂 BinarySearchTree
  ┃ ┣ 📜 2_SUM_IV_InBST.cpp 
  ┃ ┣ 📜 BST_Or_BT.cpp 
