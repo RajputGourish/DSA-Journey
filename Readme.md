@@ -12,6 +12,8 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 Largest_element_Array.cpp 
  ┃ ┣ 📜 LargestSubarraywithSumK.cpp 
  ┃ ┣ 📜 Linear_Search.cpp 
+ ┃ ┣ 📜 Majority_Element.cpp 
+ ┃ ┣ 📜 Maxi_Subarray_SUM.cpp 
  ┃ ┣ 📜 Missing_Number.cpp 
  ┃ ┣ 📜 Move_Zero_End.cpp 
  ┃ ┣ 📜 No_Of_Consecutive1s.cpp 
@@ -41,6 +43,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 Swaped_MIstake.cpp
  ┣ 📂 Leetcode DCC  
  ┃ ┣ 📜 06-05-25.cpp
+ ┃ ┣ 📜 10-05-25.cpp
  ┃ ┣ 📜 17-03-25.cpp
  ┃ ┣ 📜 19-03-25.cpp
  ┣ 📂 Practice  
