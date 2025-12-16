@@ -17,6 +17,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 Missing_Number.cpp 
  ┃ ┣ 📜 Move_Zero_End.cpp 
  ┃ ┣ 📜 No_Of_Consecutive1s.cpp 
+ ┃ ┣ 📜 Range_Sum_Query.cpp 
  ┃ ┣ 📜 Rearrange_signsArr.cpp 
  ┃ ┣ 📜 RotateArr_by_One.cpp 
  ┃ ┣ 📜 RotateArr_K_Place.cpp 
@@ -61,6 +62,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 21-05-25.cpp
  ┃ ┣ 📜 22-11-25.cpp
  ┃ ┣ 📜 25-11-25.cpp
+ ┃ ┣ 📜 29-11-25.cpp
  ┣ 📂 Practice  
  ┃ ┣ 📜 Prac_DelNode_In_BST.cpp
  ┃ ┣ 📜 BST_Or_BT.cpp
