@@ -25,7 +25,7 @@ bool judgeCircle(string s)
 
 int main()
 {
-    string moves = "UURRLLLRDRD";
+    string moves = "UURRLLLRDRDL";
     cout << judgeCircle(moves)<< endl;
 
     return 0;
