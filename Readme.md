@@ -55,6 +55,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 05-05-26.cpp
  ┃ ┣ 📜 06-04-26.cpp
  ┃ ┣ 📜 06-05-25.cpp
+ ┃ ┣ 📜 06-05-26.cpp
  ┃ ┣ 📜 07-04-26.cpp
  ┃ ┣ 📜 08-02-26.cpp
  ┃ ┣ 📜 08-04-26.cpp
