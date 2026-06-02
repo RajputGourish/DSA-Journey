@@ -47,6 +47,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 01-02-26.cpp
  ┃ ┣ 📜 02-04_26.cpp
  ┃ ┣ 📜 02-05_26.cpp
+ ┃ ┣ 📜 02-06_26.cpp
  ┃ ┣ 📜 03-04-26.cpp
  ┃ ┣ 📜 04-02-26.cpp
  ┃ ┣ 📜 04-05-26.cpp
@@ -128,6 +129,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 30-05-26.cpp
  ┃ ┣ 📜 30-12-25.cpp
  ┃ ┣ 📜 31-01-26.cpp
+ ┃ ┣ 📜 31-05-26.cpp
  ┣ 📂 Practice  
  ┃ ┣ 📜 Prac_DelNode_In_BST.cpp
  ┃ ┣ 📜 BST_Or_BT.cpp
