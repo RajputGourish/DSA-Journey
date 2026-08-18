@@ -137,6 +137,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 18-05-26.cpp
  ┃ ┣ 📜 18-06-26.cpp
  ┃ ┣ 📜 18-07-26.cpp
+ ┃ ┣ 📜 18-08-26.cpp
  ┃ ┣ 📜 19-02-26.cpp
  ┃ ┣ 📜 19-03-25.cpp
  ┃ ┣ 📜 19-05-25.cpp
@@ -228,4 +229,4 @@ This repository documents my daily progress in solving Data Structures and Algor
 
 Stay tuned for daily updates! ✨
 
-git add .; git commit -m"POTD"; git push origin main 
+git add .; 
