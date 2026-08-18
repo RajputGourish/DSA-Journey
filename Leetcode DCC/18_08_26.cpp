@@ -79,8 +79,8 @@ public:
 
 int main()
 {
-    // vector<int> arr = {3, 9, 2, 1, 7};
-    vector<int> arr = {0,0};
+    vector<int> arr = {3, 9, 2, 1, 7};
+    // vector<int> arr = {0,0};
 
     cout << Brute_largestInteger(arr, 2) << endl;
 
