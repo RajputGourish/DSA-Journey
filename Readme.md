@@ -179,6 +179,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 24-06-26.cpp
  ┃ ┣ 📜 24-07-26.cpp
  ┃ ┣ 📜 24-08-26.cpp
+ ┃ ┣ 📜 24-10-26.cpp
  ┃ ┣ 📜 25-04-26.cpp
  ┃ ┣ 📜 25-05-26.cpp
  ┃ ┣ 📜 25-06-26.cpp
@@ -217,6 +218,7 @@ This repository documents my daily progress in solving Data Structures and Algor
  ┃ ┣ 📜 01_Prev_qusn_compi.cpp
  ┃ ┣ 📜 02_Prev_qusn_compi.cpp
  ┃ ┣ 📜 03_Prev_qusn_compi.cpp
+ ┃ ┣ 📜 04_Prev_qusn_compi.cpp
  ┃ ┣ 📜 Prac_DelNode_In_BST.cpp
  ┃ ┣ 📜 BST_Or_BT.cpp
  ┣ 📂 Sorting  
