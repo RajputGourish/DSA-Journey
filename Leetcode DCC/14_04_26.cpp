@@ -2,10 +2,6 @@
 #include<vector>
 using namespace std;
 
-/*
-    Problem link =>     
-                    https://chatgpt.com/c/69de64ae-cda0-8320-87d9-beb8cccfce10
-*/
 
 class Solution {
 public:
