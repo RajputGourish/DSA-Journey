@@ -9,27 +9,25 @@ Problem Link =>
 
 void recursion(vector<vector<int>> &grid, int r, int c, char direction, int &cnt)
 {
-    if (r == grid.size() - 1 && c == grid[r].size() - 1)
+    int m = grid.size();
+    int n = grid[0].size();
+
+    if (r >= m || c >= n)
     {
-        cnt++;
         return;
     }
-    if(r >= grid.size() || c >= grid[r].size()){
+    if (r == m - 1 && c == n - 1)
+    {
+        cnt++;
         return;
     }
     if (grid[r][c] == 0)
     {
         // right move
-        if (c < grid[r].size() - 1)
-        {
-            recursion(grid, r, c + 1, 'l', cnt);
-        }
+        recursion(grid, r, c + 1, 'l', cnt);
 
-        // down
-        if (r < grid[r].size() - 1)
-        {
-            recursion(grid, r + 1, c, 'u', cnt);
-        }
+        // down move
+        recursion(grid, r + 1, c, 'u', cnt);
     }
     else
     {
@@ -49,6 +47,11 @@ int uniquePaths(vector<vector<int>> &grid)
     int cnt = 0;
     recursion(grid, 0, 0, 'a', cnt);
     return cnt;
+
+    // TLE
+
+    // Time Complexity = O(2^m+n)
+    // Space Complexity = O(m+n)
 }
 
 int main()
@@ -57,13 +60,13 @@ int main()
     //     {0, 1, 0},
     //     {0, 0, 1},
     //     {1, 0, 0}};
-    vector<vector<int>> matrix = {
-        {0, 1, 1},
-        {1, 1, 0}};
     // vector<vector<int>> matrix = {
-    //     {0, 0},
-    //     {0, 0}
-    // };
+    //     {0, 1, 1},
+    //     {1, 1, 0}};
+    vector<vector<int>> matrix = {
+        {0, 0},
+        {0, 1},
+        {0, 0}};
 
     cout << uniquePaths(matrix) << endl;
 
